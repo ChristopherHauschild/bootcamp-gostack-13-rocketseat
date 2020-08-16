@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
+  <img src="https://img.shields.io/static/v1?label=react&message=web&color=blue&style=for-the-badge&logo=REACT"/>
   
   <img src="https://img.shields.io/static/v1?label=nodejs&message=backend&color=blue&style=for-the-badge&logo=NODEJS"/>
   
-  <img src="https://img.shields.io/static/v1?label=react-native&message=mobile&color=blue&style=for-the-badge&logo=REACT-NATIVE"/>
+  <img src="https://img.shields.io/static/v1?label=react-native&message=mobile&color=blue&style=for-the-badge&logo=REACT"/>
 </div>
 
 # <p align="center">GoStack 13</p> 
