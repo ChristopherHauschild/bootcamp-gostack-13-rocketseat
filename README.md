@@ -26,7 +26,7 @@ Bootcamp online prático e imersivo que ensina do zero ao deploy todo o ecossist
   <div>✔️ MongoDB</div>
   <div>✔️ Express</div>
   
-## :bulb: Alguns dos adicionais:
+## :bulb: Alguns dos bônus:
 
   <div>✔️ Cursos gratuitos</div>
   <div>✔️ Comunidade com outros desenvolvedores(as)</div>
@@ -42,17 +42,17 @@ Bootcamp online prático e imersivo que ensina do zero ao deploy todo o ecossist
 
 **Ambiente de Desenvolvimento**
 
-### **Semana 01**
+## **Semana 01**
 
 **Conceitos Importantes**
 
-### **Semana 02**
+## **Semana 02**
 
 **Primeiro projeto com Node.js**
 
 **Iniciando o back-end do GoBarber**
 
-### **Semana 03**
+## **Semana 03**
 
 **Primeiro projeto com React**
 
@@ -60,28 +60,36 @@ Bootcamp online prático e imersivo que ensina do zero ao deploy todo o ecossist
 
 **Iniciando aplicativo mobile do GoBarber**
 
-### **Expansion Week**
+## **Expansion Week**
 
 ### **Semana 04**
 **Arquitetura e testes no Node.js**
 
-### **Semana 05**
+## **Semana 05**
 
 **Finalizando back-end do GoBarber**
 
 **Finalizando front-end do GoBarber**
 
-### **Semana 06**
+## **Semana 06**
 
 **Finalizando app mobile do GoBarber**
 
 **Testes no React**
 
-### Semana 07
+## Semana 07
 
 **Deploy de aplicações Node.js**
 
 **Deploy de aplicações ReactJS**
 
-### Semana 08
+## Semana 08
 **Publicação de apps React Native**
+
+## :clock10: Duração do GoStack:
+
+O bootcamp tem duração de cerca de 6 semanas de muito conteúdo e prática, podendo variar de acordo com o cronograma de estudos elaborado por cada aluno.
+
+<hr>
+
+Atividades desenvolvidas com horas a frente do :computer: por Christopher Hauschild Schott
