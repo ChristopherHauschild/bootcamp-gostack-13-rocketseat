@@ -12,4 +12,91 @@
 
 # <p align="center">GoStack 13</p> 
 
-Códigos desenvolvidos durante o Bootcamp GoStack 13, ofertado pela plataforma de ensino [Rocketseat](https://rocketseat.com.br/). O GoStack tem como base a stack React, Node.js e React-Native.
+:information_source: <i>Códigos desenvolvidos durante o Bootcamp GoStack 13, ofertado pela plataforma de ensino [Rocketseat](https://rocketseat.com.br/).</i>
+
+Bootcamp online prático e imersivo que ensina do zero ao deploy todo o ecossistema da stack NodeJS, ReactJS e React Native, indo direto ao ponto naquilo que realmente importa, para te deixar pronto para o mercado de trabalho. Incluindo testes automatizados, integração contínua, publicação nas stores, e todas as biliotecas e frameworks importantes para quem deseja ficar pronto para os desafios do mundo real e se destacar no mercado de trabalho.
+
+## :rocket: Algumas das tecnologias utilizadas:
+
+  ✔️ React
+  ✔️ React Native
+  ✔️ Node.js
+  ✔️ TypeScript
+  ✔️ Redux
+  ✔️ MongoDB
+  ✔️ Express
+  
+## :bulb: Alguns dos adicionais:
+
+  ✔️ Cursos gratuitos
+  ✔️ Comunidade com outros desenvolvedores(as)
+  ✔️ Mentorias
+  ✔️ Grupo de Inglês
+  ✔️ Expasion Week
+  
+## :date: Cronograma de ensino:
+
+## **Semana de Preparação**
+
+### **Preparando os estudos**
+
+### **Ambiente de Desenvolvimento**
+
+---
+
+## **Semana 01**
+
+### **Conceitos Importantes**
+
+---
+
+## **Semana 02**
+
+### **Primeiro projeto com Node.js**
+
+### **Iniciando o back-end do GoBarber**
+---
+
+## **Semana 03**
+
+### **Primeiro projeto com React**
+
+### **Iniciando front-end do GoBarber**
+
+### **Iniciando aplicativo mobile do GoBarber**
+---
+
+## **Expansion Week**
+---
+
+## **Semana 04**
+
+### **Arquitetura e testes no Node.js**
+---
+
+## **Semana 05**
+
+### **Finalizando back-end do GoBarber**
+
+### **Finalizando front-end do GoBarber**
+---
+
+## **Semana 06**
+
+### **Finalizando app mobile do GoBarber**
+
+### **Testes no React**
+
+---
+
+## Semana 07
+
+### **Deploy de aplicações Node.js**
+
+### **Deploy de aplicações ReactJS**
+
+---
+
+## Semana 08
+
+### **Publicação de apps React Native**
