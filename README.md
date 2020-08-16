@@ -90,7 +90,7 @@ Bootcamp online prático e imersivo que ensina do zero ao deploy todo o ecossist
 
 ## :clock10: Duração do GoStack:
 
-O bootcamp tem duração de cerca de 6 semanas de muito conteúdo e prática, podendo variar de acordo com o cronograma de estudos elaborado por cada aluno.
+O bootcamp tem duração de cerca de 6 semanas de muito conteúdo e prática, podendo variar de acordo com o cronograma de estudos elaborado por cada aluno(a).
 
 <hr>
 
