@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/static/v1?label=react-native&message=mobile&color=blueviolet&style=for-the-badge&logo=REACT"/>
 </div>
 
-# <p align="center">GoStack 13</p> 
+# <p align="center">GoStack 13</p>
 
 :information_source: <i>Códigos desenvolvidos durante o Bootcamp GoStack 13, ofertado pela plataforma de ensino [Rocketseat](https://rocketseat.com.br/).</i>
 
@@ -65,6 +65,7 @@ Bootcamp online prático e imersivo que ensina do zero ao deploy todo o ecossist
 ## **Expansion Week**
 
 ### **Semana 04**
+
 **Arquitetura e testes no Node.js**
 
 ## **Semana 05**
@@ -86,11 +87,12 @@ Bootcamp online prático e imersivo que ensina do zero ao deploy todo o ecossist
 **Deploy de aplicações ReactJS**
 
 ## Semana 08
+
 **Publicação de apps React Native**
 
 ## :clock10: Duração do GoStack:
 
-O bootcamp tem duração de cerca de 6 semanas de muito conteúdo e prática, podendo variar de acordo com o cronograma de estudos elaborado por cada aluno(a).
+O bootcamp tem duração de cerca de 8 semanas de muito conteúdo e prática, podendo variar de acordo com o cronograma de estudos elaborado por cada aluno(a).
 
 <hr>
 
