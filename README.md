@@ -18,85 +18,70 @@ Bootcamp online prático e imersivo que ensina do zero ao deploy todo o ecossist
 
 ## :rocket: Algumas das tecnologias utilizadas:
 
-  ✔️ React
-  ✔️ React Native
-  ✔️ Node.js
-  ✔️ TypeScript
-  ✔️ Redux
-  ✔️ MongoDB
-  ✔️ Express
+  <div>✔️ React</div>
+  <div>✔️ React Native</div>
+  <div>✔️ Node.js</div>
+  <div>✔️ TypeScript</div>
+  <div>✔️ Redux</div>
+  <div>✔️ MongoDB</div>
+  <div>✔️ Express</div>
   
 ## :bulb: Alguns dos adicionais:
 
-  ✔️ Cursos gratuitos
-  ✔️ Comunidade com outros desenvolvedores(as)
-  ✔️ Mentorias
-  ✔️ Grupo de Inglês
-  ✔️ Expasion Week
+  <div>✔️ Cursos gratuitos</div>
+  <div>✔️ Comunidade com outros desenvolvedores(as)</div>
+  <div>✔️ Mentorias</div>
+  <div>✔️ Grupo de Inglês</div>
+  <div>✔️ Expasion Week</div>
   
 ## :date: Cronograma de ensino:
 
 ## **Semana de Preparação**
 
-### **Preparando os estudos**
+**Preparando os estudos**
 
-### **Ambiente de Desenvolvimento**
-
----
+**Ambiente de Desenvolvimento**
 
 ## **Semana 01**
 
-### **Conceitos Importantes**
-
----
+**Conceitos Importantes**
 
 ## **Semana 02**
 
-### **Primeiro projeto com Node.js**
+**Primeiro projeto com Node.js**
 
-### **Iniciando o back-end do GoBarber**
----
+**Iniciando o back-end do GoBarber**
 
 ## **Semana 03**
 
-### **Primeiro projeto com React**
+**Primeiro projeto com React**
 
-### **Iniciando front-end do GoBarber**
+**Iniciando front-end do GoBarber**
 
-### **Iniciando aplicativo mobile do GoBarber**
----
+**Iniciando aplicativo mobile do GoBarber**
 
 ## **Expansion Week**
----
 
 ## **Semana 04**
-
-### **Arquitetura e testes no Node.js**
----
+**Arquitetura e testes no Node.js**
 
 ## **Semana 05**
 
-### **Finalizando back-end do GoBarber**
+**Finalizando back-end do GoBarber**
 
-### **Finalizando front-end do GoBarber**
----
+**Finalizando front-end do GoBarber**
 
 ## **Semana 06**
 
-### **Finalizando app mobile do GoBarber**
+**Finalizando app mobile do GoBarber**
 
-### **Testes no React**
-
----
+**Testes no React**
 
 ## Semana 07
 
-### **Deploy de aplicações Node.js**
+**Deploy de aplicações Node.js**
 
-### **Deploy de aplicações ReactJS**
-
----
+**Deploy de aplicações ReactJS**
 
 ## Semana 08
-
-### **Publicação de apps React Native**
+**Publicação de apps React Native**
