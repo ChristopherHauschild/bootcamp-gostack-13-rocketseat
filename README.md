@@ -3,9 +3,9 @@
 </div> <br />
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=react&message=web&color=informational&style=for-the-badge&logo=REACT"/>
+  <img src="https://img.shields.io/static/v1?label=react&message=web&color=informational&style=for-the-badge&logo=REACT"/> &nbsp;
   
-  <img src="https://img.shields.io/static/v1?label=nodejs&message=backend&color=success&style=for-the-badge&logo=NODE.JS"/>
+  <img src="https://img.shields.io/static/v1?label=nodejs&message=backend&color=success&style=for-the-badge&logo=NODE.JS"/> &nbsp;
   
   <img src="https://img.shields.io/static/v1?label=react-native&message=mobile&color=blueviolet&style=for-the-badge&logo=REACT"/>
 </div>
@@ -14,7 +14,9 @@
 
 :information_source: <i>Códigos desenvolvidos durante o Bootcamp GoStack 13, ofertado pela plataforma de ensino [Rocketseat](https://rocketseat.com.br/).</i>
 
+<p align="justify">
 Bootcamp online prático e imersivo que ensina do zero ao deploy todo o ecossistema da stack NodeJS, ReactJS e React Native, indo direto ao ponto naquilo que realmente importa, para te deixar pronto para o mercado de trabalho. Incluindo testes automatizados, integração contínua, publicação nas stores, e todas as biliotecas e frameworks importantes para quem deseja ficar pronto para os desafios do mundo real e se destacar no mercado de trabalho.
+</p>
 
 ## :rocket: Algumas das tecnologias utilizadas:
 
