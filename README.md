@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://github.com/ChristopherHauschild/bootcamp-gostack-13-rocketseat/blob/master/gostack.png?raw=true">
-</div>
-
-<br />
+</div> <br />
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=react&message=web&color=informational&style=for-the-badge&logo=REACT"/>
@@ -14,4 +12,4 @@
 
 # <p align="center">GoStack 13</p> 
 
-Códigos desenvolvidos durante o Bootcamp GoStack 13, oferecido pela plataforma de ensino [Rocketseat](https://rocketseat.com.br/).
+Códigos desenvolvidos durante o Bootcamp GoStack 13, ofertado pela plataforma de ensino [Rocketseat](https://rocketseat.com.br/). O GoStack tem como base a stack React, Node.js e React-Native.
