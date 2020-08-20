@@ -1,0 +1,36 @@
+React Native:
+  -> Versão do React para desenvolvimento mobile
+
+  -> Multiplataforma
+    -> Cada plataforma manipulada de forma diferente
+  
+  -> Interface nativa
+
+  -> Código não é transpilado 
+
+Arquitetura:
+  -> JS > Metro Bundler > Bundle > Bridge > Android e IOS 
+           (packager)
+  
+  -> Não usamos HTML e sim componentes próprios
+
+  -> Todo texto é <Text /> não existe estilização própria
+
+Expo:
+  -> SDK com conjunto de funcionalidade prontas para usar (câmera, vídeo, integrações)
+
+  -> Não é necessário configurar emulador
+
+  -> Limitação sobre o controle do código nativo
+
+  -> Várias bibliotecas não tem suporte para o Expo
+
+  -> O Expo liberou seu conjunto de ferramentas prontas para serem utilizadas com
+    projetos que não utilizam Expo
+
+// Elementos não possuem valor semântico
+// Não possuem estilização própria
+// Todos componentes possuem por padrão 'display: flex'
+
+// View: div, footer, header, main, aside, section
+// Text: p, span, strong, h1, h2, h3

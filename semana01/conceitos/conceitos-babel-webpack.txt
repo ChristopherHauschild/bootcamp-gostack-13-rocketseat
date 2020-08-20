@@ -1,0 +1,20 @@
+BABEL / WEBPACK:
+  -> O browser não entende todo esse código
+
+  -> O Babel converte o código JS de uma forma que o browser entenda
+
+  -> Webpack possui várias funções:
+    -> Criação do bundle, arquivo com todo código da aplicação
+    -> Ensinar ao JS como importar arquivos CSS, imagens, etc
+    -> Live reload com Webpack Dev Server
+
+BABEL:
+  -> Transpilar código do React para um código que o browser entenda
+  -> preset-env: converte funcionalidades do JS moderno baseado no ambiente
+  -> preset-react: converte código React para entendimento do browser
+
+WEBPACK:
+  -> Identifica cada tipo de arquivo (.js, .css, .png) e código é convertido de maneira diferente
+
+LOADER:
+  -> babel-loader, css-loader, image-loader, file-loader

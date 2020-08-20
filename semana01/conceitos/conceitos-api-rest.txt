@@ -1,0 +1,26 @@
+Benefícios:
+  -> Múltiplos clientes (frontend), mesmo backend
+  
+  -> Protocolo de comunicação padronizado:
+    -> Mesma estrutura para web / mobile / API pública
+
+    -> Comunicação com serviços externos
+
+HTTP codes:
+  -> 1xx: Informational
+
+  -> 2xx: Success
+    -> 200: SUCESS
+    -> 201: CREATED
+  
+  -> 3xx: Redirection
+    -> 301: MOVED PERMANENTLY
+    -> 302: MOVED
+  
+  -> 4xx: Client Error
+    -> 400: BAD REQUEST
+    -> 401: UNAUTHORIZED
+    -> 404: NOT FOUND
+
+  -> 5xx: Server Error
+    -> 500: INTERNAL SERVER ERROR

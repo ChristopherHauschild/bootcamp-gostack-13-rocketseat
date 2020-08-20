@@ -1,0 +1,29 @@
+JSON -> retorna array ou object
+
+Métodos HTTP:
+
+* GET: Buscar informações do backend
+
+* POST: Criar uma informação no backend
+
+* PUT/PATCH: Alterar uma informação no backend
+  * PATCH > Alterar uma informação específica
+
+* DELETE: Deletar uma informação no backend
+
+Tipos de parâmetros:
+
+* Query Params: Filtros e paginação
+  -> ?title=Example&owner=Christopher
+
+* Route Params: Identificar recursos (Atualizar/Deletar)
+  -> /:id
+
+* Request Body: Conteúdo na hora de criar ou editar um recurso
+  -> (JSON)
+
+Se não encontrou index:
+
+if(projectIndex < 0) {
+    
+}

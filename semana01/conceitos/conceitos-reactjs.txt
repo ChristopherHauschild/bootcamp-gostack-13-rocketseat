@@ -1,0 +1,14 @@
+Componentes
+
+Propriedade:
+  -> Informação passada de componente pai p/ filho
+
+Estado & Imutabilidade:
+  -> Exemplo (Respeitando conceitos de Imutabilidade):
+    -> Valor não pode ser mutável
+
+    projects.push(`Novo projeto ${Date.now()}`);
+                   ||
+                   \/
+    setProjects([...projects, `Novo projeto ${Date.now()}`]);
+    -> Project continua com valores anteriores, apenas adiciona novo

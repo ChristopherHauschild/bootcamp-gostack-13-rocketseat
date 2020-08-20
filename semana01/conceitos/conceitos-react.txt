@@ -1,0 +1,25 @@
+React:
+  -> Biblioteca para construção de interfaces
+
+  -> Utilizado para construção de SPA
+
+  -> Vantagens:
+    -> Organização do código:
+      -> Componentização
+    
+    -> Divisão de responsabilidades:
+      -> Backend: Regra de negócio
+      -> Frontend: Interface
+    
+    -> Uma API, múltiplos clientes
+
+    -> Programação declarativa:
+      -> Programação funcional
+      -> Programação lógica
+      -> Programação restritiva
+      -> (Badge)
+
+JSX (Javascript XML):
+  -> Escrever HTML dentro do JS
+
+  -> Com React podemos criar nossos próprios elementos

@@ -1,0 +1,7 @@
+Rodar código que Node.js entenda > yarn tsc index.js
+
+Configurar TS > yarn tsc --init
+
+Rodar código > yarn src/index.js
+
+Configurar out > "outDir": "./dist"

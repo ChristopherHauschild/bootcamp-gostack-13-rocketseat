@@ -1,0 +1,58 @@
+Node.js:
+  -> Javascript no backend
+
+  -> Plataforma (não linguagem)
+
+  -> Construída em cima da V8
+
+  -> Comparável a PHP / Ruby / Python / Go
+
+NPM:
+  -> Instalar bibliotecas de terceiros
+
+  -> Fornecer bibliotecas
+
+  -> Yarn:
+     -> Mais rápido
+
+     -> Compartilhar dependências (workspace)
+  
+  -> Comparáveis:
+    -> Composer do PHP
+    
+    -> Gems do Ruby
+    
+    -> PIP do Python
+
+Características Node.js:
+  -> Arquitetura Event-loop:
+    -> Baseada em eventos
+
+    -> Call Stack (pilha de eventos)
+
+  -> Node single-thread:
+    -> C++ por trás com libuv
+    
+    -> Background threads
+
+  -> Non-blocking I/O:
+    -> não bloqueia o encadeamento de chamada
+      (como em o típico modelo semelhante ao c síncrono)
+      e apenas marca o processo (na estrutura de dados do nível do kernel/sistema operacional)
+      para ser notificado quando novos dados ou eventos estiverem disponíveis.
+
+    -> aplicações em tempo real
+
+Frameworks:
+
+  -> ExpressJS como base:
+    -> Sem opinião
+
+    -> Ótimo para iniciar
+
+    -> Micro-serviços
+
+  -> Frameworks opinados:
+    -> AdonisJS
+
+    -> NestJS

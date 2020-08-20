@@ -1,0 +1,5 @@
+Middleware:
+
+* Interceptador de requisições
+  -> interromper totalmente a requisição
+  -> alterar dados da requisição
