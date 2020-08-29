@@ -1,0 +1,6 @@
+// Persistência <-> Repositório <-> Rota
+
+// find
+// create
+
+// Um Repositório por model

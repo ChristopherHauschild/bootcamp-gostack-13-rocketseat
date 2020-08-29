@@ -1,0 +1,15 @@
+Model -> // Representação de como um dado é composto dentro da aplicação
+
+Repositórios -> // Trabalham com os dados (listar, encontrar, alterar, etc)
+
+Services -> // Regras de negócio da aplicação
+  -> Um único método e funcionalidade
+
+Rotas -> // Rota: Receber a requisição. chamar outro arquivo, devolver uma resposta
+
+token = sign(1, 2, 3)
+
+1 - payload (infos do usuário p/ utilizar depois)
+2 - secret key
+3 - configurations
+  3.1 subject: id, -> identificador do usuário que gerou o token

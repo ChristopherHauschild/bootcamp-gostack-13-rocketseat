@@ -1,0 +1,8 @@
+Model -> // Representação de como um dado é composto dentro da aplicação
+
+Repositórios -> // Trabalham com os dados (listar, alterar, etc)
+
+Services -> // Regras de negócio da aplicação
+  -> Um único método e funcionalidade
+
+Rotas -> // Rota: Receber a requisição. chamar outro arquivo, devolver uma resposta
