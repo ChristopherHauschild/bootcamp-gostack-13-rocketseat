@@ -1,0 +1,4 @@
+export const ComponentExample = styled(ComponentExtern)``
+
+> sempre que se utilizar Componentes de fora do React/ReactNative,
+  deve-se encapsular os mesmos com o styled
