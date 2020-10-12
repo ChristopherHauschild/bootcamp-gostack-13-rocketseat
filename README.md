@@ -15,7 +15,7 @@
 :information_source: <i>Códigos desenvolvidos durante o Bootcamp GoStack 13, ofertado pela plataforma de ensino [Rocketseat](https://rocketseat.com.br/).</i>
 
 <p align="justify">
-Bootcamp online prático e imersivo que ensina do zero ao deploy todo o ecossistema da stack NodeJS, ReactJS e React Native, indo direto ao ponto naquilo que realmente importa, para te deixar pronto para o mercado de trabalho. Incluindo testes automatizados, integração contínua, publicação nas stores, e todas as biliotecas e frameworks importantes para quem deseja ficar pronto para os desafios do mundo real e se destacar no mercado de trabalho.
+Bootcamp online, prático e imersivo que ensina do zero ao deploy todo o ecossistema da stack NodeJS, ReactJS e React Native, indo direto ao ponto naquilo que realmente importa, para te deixar pronto para o mercado de trabalho. Incluindo testes automatizados, integração contínua, publicação nas stores, e todas as biliotecas e frameworks importantes para quem deseja ficar pronto para os desafios do mundo real e se destacar no mercado de trabalho.
 </p>
 
 ## :rocket: Algumas das tecnologias utilizadas:
