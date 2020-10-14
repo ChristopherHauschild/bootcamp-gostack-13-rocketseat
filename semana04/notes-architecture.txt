@@ -1,0 +1,66 @@
+Domínio: Qual a área de conhecimento do módulo/arquivo
+
+DDD: Domain Driven Design (metodologia)
+TDD: Test Driven Development (metodologia)
+
+modules
+  > contém categorias da aplicação
+  > áreas de conhecimento
+  > ex: users e appointments
+
+shared
+  > arquivos comuns entre a aplicação
+  > ex: routes, database, errors, middlewares...
+
+config
+  > regras chaves para configuração da aplicação
+  > ex: auth e upload
+
+infra
+  > decisões técnicas
+  > como a aplicação se comunica com a camada de domínios
+  > ex: ferramenta para envio de e-mails, database...
+
+dominio > regra de negócio, core da app
+infra > como app irá se comunicar com camadas externas (libs...)
+
+Liskov Substitution Principle
+  > camadas que são integrações com banco de dados ou bibliotecas podem ter
+    informações substituidas a partir de regras definidas
+  > service não deve saber estrutura final da persistência dos dados
+
+DTO
+  > Data Transfer Object
+  > criado para quando método ou função recebe mais de uma informação
+
+============================================================================
+
+IUsersRepository em modules, define os métodos do repositório
+  > findById, create, save...
+
+UsersRepository em TypeORM, implementa os métodos de IUsersRepository
+
+Arquivos de Services, em modules, importam IUsersRepository e utilizam métodos
+
+Routes importam arquivos de Services e também conexão com o o UsersRepository
+do TypeORM
+
+============================================================================
+
+Controllers
+  > abstraem lógicas das rotas
+  > por padrão, deve conter index, show, create, update, delete
+
+============
+
+Injeção de dependências
+
+se utiliza a interface não diretamente o provedor
+
+se injeta o provedor na variável com o formato da interface
+
+==============
+
+container tsyringe
+
+utilizado para definir o que cada injeção de dependências representa

@@ -1,0 +1,14 @@
+Redis
+
+- Não possui tabelas
+- Não estruturado
+
+- Estrutura:
+  > TABELA
+    > key: value
+
+- Utilizado para gerenciar caches
+
+- Caches:
+  > Maior escalabilidade da aplicação
+  > Armazenar resultados de queries extensas e/ou repetitivas

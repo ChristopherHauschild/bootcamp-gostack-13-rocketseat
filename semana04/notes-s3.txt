@@ -1,0 +1,4 @@
+Amazon S3 - CDN (Content Delivery Network)
+
+Escala vertical - Aumenta recursos
+Escala horizontal - Cria um novo servidor (distribuição de carga)

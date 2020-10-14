@@ -1,0 +1,49 @@
+Testes automatizados
+  > garantem que app continue funcionando, independente de número de devs
+    no time e novas funcionalidades
+
+1. Testes unitários (TDD)
+  > funcionalidades específicas do app
+  > precisam ser funções puras
+  > mais utilizados em serviços com regras de negócio
+
+  > não faz chamadas à APIS nem acarreta em algum efeito colateral
+  > não depende de serviços externos
+  > dados os mesmos parametros, tem o mesmo retorno
+
+2. Testes de integração
+  > funcionalidades completas, passando por várias camadas do app
+
+  > ex: criação de usuários
+    Route -> Controller -> Serviço -> Repositório ...
+
+3. Testes E2E (end-to-end)
+  > simulam a ação do usuário dentro do app
+  > voltado para interface
+
+  ex: usuário logando no app
+
+=====================================================
+
+TDD (Test Driven Development)
+  > desenvolvimento dirigido à testes
+
+
+describe
+  > utilizado para agrupar testes
+
+it ou test
+  > mesma funcionalidade, instânciam um novo teste
+
+===================================================
+
+lcov (coverage)
+
+  > branches: ramificações, possibilidades e funcionalidades do arquivo (if, else)
+  > statements: num de linhas do arquivo e número de linhas cobertas
+
+======= Rejeitar uma promise ========
+
+expect por padrão é assíncrono, não necessita de await interno
+
+rejects.instanceOf(Error)
